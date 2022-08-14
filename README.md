@@ -1,5 +1,5 @@
 # Indonesian-English Code-Mixed Tweet Dataset
-One of prominent issues in Twitter is code-mixing, which is combining multiple languages in single conversation. Tweets in Indonesian language may intermingle with English vocabulary. This dataset contain 825 tweet instances of Indonesian-English, corresponding to four NLP tasks, i.e., tokenization, language identification, lexical normalization, and word translation.
+One of prominent issues in Twitter is code-mixing, which is combining multiple languages in single conversation. Tweets in Indonesian language may intermingle with English vocabulary. This dataset contain 825 tweet instances of Indonesian-English, corresponding to four NLP tasks, i.e., <b>tokenization</b>, <b>language identification</b>, <b>lexical normalization</b>, and <b>word translation</b>.
 
 
 ## Citation
