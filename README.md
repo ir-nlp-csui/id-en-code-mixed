@@ -21,7 +21,7 @@ One of prominent issues in Twitter is code-mixing, which is combining multiple l
 }
 ```
 
-Cleaner data for <b>lexical normalization</b> task has been included in <a href="https://aclanthology.org/2021.wnut-1.55/">MultiLexNorm</a> dataset.
+Cleaner data for <b>lexical normalization</b> task has been included in <a href="https://bitbucket.org/robvanderg/multilexnorm/">MultiLexNorm</a> dataset.
 
 ```
 @inproceedings{van-der-goot-etal-2021-multilexnorm,
